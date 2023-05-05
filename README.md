@@ -54,7 +54,7 @@ Firmware | Description
 
 | Features | Free Users | Donors/Subscribers |
 | --- | --- | --- |
-| Compilation limit per day | 3 | 8 |
+| Compilation limit per day | 2 | 8 |
 | Custom Flipper Name | Yes | Yes |
 | Custom GIF animations | 1 | Unlimited |
 | Custom Sub-GHz Limitations | Yes | Yes |
